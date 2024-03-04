@@ -1,1 +1,1 @@
-test repo for github check.
+test repo for github function check.
